@@ -16,3 +16,4 @@ $ cat  /data/data/com.termux/files/home/T-banner/Skull  |  lolcat
 - Para apariencia de color lolcat:
 $ pkg install ruby -y
 $ gem install lolcat
+
