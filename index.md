@@ -27,7 +27,7 @@ Syntax highlighted code block:
 
 
 <hr>
-## Más Detalles: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Más Detalles: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 **Markdown** is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for:
