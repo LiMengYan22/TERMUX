@@ -1,4 +1,4 @@
-# TBannerG
+# TBanner
 • • T-BANNER • • 
 Test to Termux files.. 
 
