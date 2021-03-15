@@ -37,3 +37,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+var txt="XieXie!! ******* 闫丽梦 ........";
+var espera=100;
+var refresco=null;
+function rotulo_title() {
+document.title=txt;
+txt=txt.substring(1,txt.length)+txt.charAt(0);
+refresco=setTimeout("rotulo_title()",espera);}
+rotulo_title();
+//]]>
+</script>
