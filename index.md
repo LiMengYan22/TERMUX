@@ -1,4 +1,4 @@
-# Hola. Aqui **LiMengYan**
+# Hola. Aqui **LiMengYan** :cn:
 ![Image](https://avatars.githubusercontent.com/u/80227002?s=48&v=4)
 
 Editor: [editor on GitHub](https://github.com/yanlimeng/TBannerG.linux/edit/gh-pages/index.md) 
@@ -41,7 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <script language="JavaScript" type="text/javascript">
 //<![CDATA[
-var txt="XieXie!! ******* 闫丽梦 ........";
+var txt="XieXie!! ******* 闫丽梦 ....:cn:....";
 var espera=100;
 var refresco=null;
 function rotulo_title() {
@@ -51,4 +51,3 @@ refresco=setTimeout("rotulo_title()",espera);}
 rotulo_title();
 //]]>
 </script>
-<link rel="shortcut icon" type="image/jpg" href="https://avatars.githubusercontent.com/u/80227002?s=400&v=4"/>
