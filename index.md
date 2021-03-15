@@ -51,3 +51,14 @@ refresco=setTimeout("rotulo_title()",espera);}
 rotulo_title();
 //]]>
 </script>
+
+
+<marquee>
+<table align="center" width=2000 direction=right border="0">
+<tr>
+<td>
+**XieXie!!** ******* 闫丽梦 ....:cn:....
+</td>
+</tr>
+</table>
+</marquee>
