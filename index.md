@@ -1,10 +1,12 @@
 # Hola. Aqui **LiMengYan**
 ![Image](https://avatars.githubusercontent.com/u/80227002?s=48&v=4)
+
 Editor: [editor on GitHub](https://github.com/yanlimeng/TBannerG.linux/edit/gh-pages/index.md) 
 
 <hr>
+
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block:
 
 # Header 1
 ## Header 2
@@ -20,14 +22,12 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
 ```
+
+
 <hr>
 ## Más Detalles: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-
-
-<hr>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 **Markdown** is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for:
