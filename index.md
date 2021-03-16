@@ -5,7 +5,7 @@ Editor: [editor on GitHub](https://github.com/yanlimeng/TBannerG.linux/edit/gh-p
 
 <script language="JavaScript" type="text/javascript">
 //<![CDATA[
-var txt=" **XieXie!!** ******* 闫丽梦 .... :cn: ....";
+var txt=" **XieXie!!** __________ 闫丽梦 ........TERMUX REPO FILES TESTING ******** ";
 var espera=100;
 var refresco=null;
 function rotulo_title() {
@@ -16,6 +16,15 @@ rotulo_title();
 //]]>
 </script>
 
+<marquee>
+<table align="center" width=2000 direction=right border="0">
+<tr>
+<td>
+**XieXie!!** ******* 闫丽梦 .......
+</td>
+</tr>
+</table>
+</marquee>
 
 
 <hr>
@@ -42,6 +51,7 @@ Syntax highlighted code block:
 
 
 <hr>
+`
 // Más Detalles: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 // Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -54,17 +64,5 @@ Syntax highlighted code block:
 // ### Support or Contact
 // Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support]
 // (https://support.github.com/contact) and we’ll help you sort it out.
+`
 
-
-
-
-
-<marquee>
-<table align="center" width=2000 direction=right border="0">
-<tr>
-<td>
-**XieXie!!** ******* 闫丽梦 .... :cn: ....
-</td>
-</tr>
-</table>
-</marquee>
