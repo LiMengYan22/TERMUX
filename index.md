@@ -3,6 +3,11 @@
 
 Editor: [editor on GitHub](https://github.com/yanlimeng/TBannerG.linux/edit/gh-pages/index.md) 
 
+$ mkdir cacafire
+$ cd cacafire
+$ pkg install libcaca
+$ cacafire
+
 <script language="JavaScript" type="text/javascript">
 //<![CDATA[
 var txt=" ------------> XieXie!! __________ 闫丽梦 ........TERMUX REPO FILES TESTING ******** ";
