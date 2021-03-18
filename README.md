@@ -1,6 +1,6 @@
 # TERMUX
-**TERMUX** REPO CLEAN FILES
+**TERMUX** REPO CLEAN FILES..
 
-Check: [Link](https://yanlimeng.github.io/termux) 
+Check: [Repo!!](https://yanlimeng.github.io/termux) 
 
 <hr>
