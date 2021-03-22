@@ -8,4 +8,3 @@ Check: [Repo!!](https://yanlimeng.github.io/TERMUX)
 
 <hr>
 
-/
