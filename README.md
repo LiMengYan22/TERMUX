@@ -2,7 +2,7 @@
 **TERMUX** REPO CLEAN FILES..║▌║█║𝖉𝖔𝖕𝖆𝖒𝖎𝖓𝖆 ▌│█│║
 
 ```
-Check: [Repo!!](https://yanlimeng.github.io/TERMUX) 
+Repo: [TERMUX!!](https://yanlimeng.github.io/TERMUX) 
 ```
 
 [WeatherForecast](https://yanlimeng.github.io/WeatherForecast.bash/
