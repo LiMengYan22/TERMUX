@@ -1,8 +1,10 @@
 # TERMUX
 **TERMUX** REPO CLEAN FILES..║▌║█║𝖉𝖔𝖕𝖆𝖒𝖎𝖓𝖆 ▌│█│║
 
+<hr>
 
-[REPO TERMUX](https://yanlimeng.github.io/TERMUX)
+
+### :point_right: [REPO TERMUX](https://yanlimeng.github.io/TERMUX)
 
 <hr>
 
