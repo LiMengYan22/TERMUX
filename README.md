@@ -1,5 +1,5 @@
 # TERMUX
-**TERMUX** REPO CLEAN FILES..║▌║█║𝖉𝖔𝖕𝖆𝖒𝖎𝖓𝖆 ▌│█│║ 
+**TERMUX** REPO CLEAN FILES..
 
 <hr>
 
