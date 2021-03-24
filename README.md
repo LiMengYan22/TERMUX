@@ -5,22 +5,22 @@
 Check: [Repo!!](https://yanlimeng.github.io/TERMUX) 
 ```
 
-Check: [WeatherForecast](https://yanlimeng.github.io/WeatherForecast.bash/
+[WeatherForecast](https://yanlimeng.github.io/WeatherForecast.bash/
 )
 
-Check: [printEnviroment](https://yanlimeng.github.io/printEnviroment.bash/
+[printEnviroment](https://yanlimeng.github.io/printEnviroment.bash/
 )
 
-Check: [fortuneQuotes](https://yanlimeng.github.io/fortuneQuotes.bash/
+[fortuneQuotes](https://yanlimeng.github.io/fortuneQuotes.bash/
 )
 
-Check: [Figlet](https://yanlimeng.github.io/Figlet-shell/
+[Figlet](https://yanlimeng.github.io/Figlet-shell/
 )
 
-Check: [Cmatrix](https://yanlimeng.github.io/Cmatrix
+[Cmatrix](https://yanlimeng.github.io/Cmatrix
 )
 
-Check: [CacaFireScreensaver](https://yanlimeng.github.io/CacaFireScreensaver/
+[CacaFireScreensaver](https://yanlimeng.github.io/CacaFireScreensaver/
 )
 
 
