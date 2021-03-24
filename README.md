@@ -7,10 +7,6 @@
 
 ```
 
-
-[TERMUX](https://yanlimeng.github.io/TERMUX)
-
-
 [WeatherForecast](https://yanlimeng.github.io/WeatherForecast.bash/
 )
 
