@@ -1,12 +1,11 @@
 
-# **TERMUX** REPO CLEAN FILES..
+### :point_right: **TERMUX** REPO CLEAN FILES..
 
 <hr>
 
 
 
-
-### :point_right: [REPO TERMUX](https://yanlimeng.github.io/TERMUX)
+``` ### :point_right: [REPO TERMUX](https://yanlimeng.github.io/TERMUX) ```
 
 
 
