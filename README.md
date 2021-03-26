@@ -29,7 +29,7 @@ document.write("DUERME BIEN..")
 //]]>
 </script>
 	 [@ REPO TERMUX by LiMeng.. ](https://yanlimeng.github.io/TERMUX) 
-	</b> Xie xie!!</span>
+	</b>  Xie xie!! </span>
 
 
 
@@ -37,22 +37,8 @@ document.write("DUERME BIEN..")
 
 
 
-
-```
- __    _ _____             __ __         
-|  |  |_|     |___ ___ ___|  |  |___ ___ 
-|  |__| | | | | -_|   | . |_   _| .'|   |
-|_____|_|_|_|_|___|_|_|_  | |_| |__,|_|_|
-                      |___|              
-```
-
-
-
-
-
 <br>
-- [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
-
+### - [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
 <br>
 <hr>
 
@@ -280,7 +266,20 @@ document.write(OSName);
 </div>
 </div>
 </div>
-</html>
+<br>
+
+
+
+```
+ __    _ _____             __ __         
+|  |  |_|     |___ ___ ___|  |  |___ ___ 
+|  |__| | | | | -_|   | . |_   _| .'|   |
+|_____|_|_|_|_|___|_|_|_  | |_| |__,|_|_|
+                      |___|              
+```
+
+
+
 <br>
 
 <SCRIPT LANGUAGE="JavaScript">
@@ -337,4 +336,4 @@ document.write("Visita: " + visits)</script>
 <br>
 <hr>
 <br>
-
+</html>
