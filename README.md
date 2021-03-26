@@ -1,6 +1,4 @@
-
- 
-### <span class="Apple-style-span"><b>
+<span class="Apple-style-span"><b>
 <script language="JavaScript" type="text/javascript">
 //<![CDATA[
 <!--
@@ -49,7 +47,7 @@ document.write("DUERME BIEN..")
 
 
 
- ## [Contents:](https://yanlimeng.github.io/TERMUX) 
+ ##[Contents:](https://yanlimeng.github.io/TERMUX) 
 
 
 
