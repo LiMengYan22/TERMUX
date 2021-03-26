@@ -1,5 +1,5 @@
 
-:point_right:  ### **TERMUX** REPO CLEAN FILES.. <span style="font-size: 23px;">
+### **TERMUX** REPO CLEAN FILES.. 
 <span class="Apple-style-span"><b>
 <script language="JavaScript" type="text/javascript">
 //<![CDATA[
@@ -29,17 +29,30 @@ document.write("DUERME BIEN..")
 }
 // -->
 //]]>
-</script></span>
-	 [REPO TERMUX](https://yanlimeng.github.io/TERMUX) 
+</script>
+	 [@ REPO TERMUX](https://yanlimeng.github.io/TERMUX) 
 	</b></span>
 
 
 # <marquee>Hola, bienvenid@......&nbsp;&nbsp; | <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></marquee>
 
+
+
+
+```
+ __    _ _____             __ __         
+|  |  |_|     |___ ___ ___|  |  |___ ___ 
+|  |__| | | | | -_|   | . |_   _| .'|   |
+|_____|_|_|_|_|___|_|_|_  | |_| |__,|_|_|
+                      |___|              
+```
+
+
+
 <hr>
 
 
- ###  - [Contents:](https://yanlimeng.github.io/TERMUX) 
+ ## - [Contents:](https://yanlimeng.github.io/TERMUX) 
 
 
 
@@ -68,15 +81,6 @@ document.write("DUERME BIEN..")
 - [Teclado Largo](https://yanlimeng.github.io/TecladoLargo.bash/
 )
 
-
-
-```
- __    _ _____             __ __         
-|  |  |_|     |___ ___ ___|  |  |___ ___ 
-|  |__| | | | | -_|   | . |_   _| .'|   |
-|_____|_|_|_|_|___|_|_|_  | |_| |__,|_|_|
-                      |___|              
-```
 
 <hr>
 
