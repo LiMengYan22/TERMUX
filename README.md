@@ -1,10 +1,41 @@
 
 ### **TERMUX** REPO CLEAN FILES..
-<marquee>
-<table align="center" width=1000 direction=right border="0">
-### <tr><td>Hola, Bienvenid@......&nbsp;&nbsp; | <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;-&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></td></tr>
-</table>
-</marquee>
+
+<span style="font-size: 15px;">
+<span class="Apple-style-span">
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+<!--
+today = new Date()
+if(today.getMinutes() < 10){
+pad = "0"}
+else
+pad = "";
+document.write ;if((today.getHours() >=6) && (today.getHours() <=9)){
+document.write("BUENOS DIAS!!")
+}
+if((today.getHours() >=10) && (today.getHours() <=11)){
+document.write("COFFEE TIME!!")
+}
+if((today.getHours() >=12) && (today.getHours() <=17)){
+document.write("QUE APROVECHE..")
+}
+if((today.getHours() >=18) && (today.getHours() <=23)){
+document.write("BUENA TARDE..")
+}
+if((today.getHours() >=0) && (today.getHours() <=3)){
+document.write("..BUENAS NOCHES!! ")
+}
+if((today.getHours() >=4) && (today.getHours() <=5)){
+document.write("DUERME BIEN..")
+}
+// -->
+//]]>
+</script></span></span>
+
+
+
+# <marquee><table align="center" width=1000 direction=right border="0"><tr><td>Hola, Bienvenid@......&nbsp;&nbsp; | <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;-&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></td></tr></table></marquee>
 
 <hr>
 
@@ -202,13 +233,14 @@ ventana.document.write(""+list_number+"- "+navigator.plugins[i].name+"  <br />")
 </script>
 <!-- Hasta aqui Pluggins instalados en el navegador -->
 </div>
-<br><br><br>
+<br>
 </div>
+  
   
 <div class='col-md-3'>
 <h6 style='color:#ffffff;'>Datos de tu equipo</h6>
-
 <div class="marco2">
+	
 <!-- Ancho de la resoluciÃ³n de tu pantalla -->
 &#10132; Ancho de la resolución de tu pantalla: 
 <script type="text/javascript">document.write(window.screen.width, " pixeles")
