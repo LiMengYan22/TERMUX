@@ -1,5 +1,5 @@
 
-### **TERMUX** REPO CLEAN FILES.. <span style="font-size: 23px;">
+:point_right:  ### **TERMUX** REPO CLEAN FILES.. <span style="font-size: 23px;">
 <span class="Apple-style-span"><b>
 <script language="JavaScript" type="text/javascript">
 //<![CDATA[
@@ -29,18 +29,17 @@ document.write("DUERME BIEN..")
 }
 // -->
 //]]>
-</script>
+</script></span>
 	 [REPO TERMUX](https://yanlimeng.github.io/TERMUX) 
-	</b></span></span>
+	</b></span>
 
 
-
-### <marquee><table align="center" width=800 direction=right border="0"><tr><td> :point_right: Hola, bienvenid@......&nbsp;&nbsp; | <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></td></tr></table></marquee>
+# <marquee>Hola, bienvenid@......&nbsp;&nbsp; | <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></marquee>
 
 <hr>
 
 
- ###  [REPO TERMUX](https://yanlimeng.github.io/TERMUX) 
+ ###  - [Contents:](https://yanlimeng.github.io/TERMUX) 
 
 
 
