@@ -2,7 +2,7 @@
 ### **TERMUX** REPO CLEAN FILES..
 <marquee>
 <table align="center" width=1000 direction=right border="0">
-<tr><td>Hola, Bienvenid@......&nbsp;&nbsp; | <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;-&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></td></tr>
+### <tr><td>Hola, Bienvenid@......&nbsp;&nbsp; | <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;-&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></td></tr>
 </table>
 </marquee>
 
@@ -150,12 +150,10 @@ document.write('&#10132;  Usas el navegador: '+browserName+', la versión: '+ful
 <!-- Hasta aqui nombre y version del navegador -->
 
   
-  
 <!-- Tu agente de usuario es -->
 &#10132; Agente:
 <script type="text/javascript">document.write(navigator.userAgent);</script><br>
 <!-- Hasta aqui Tu agente de usuario es -->
-
 
 <!-- Medida de la pantalla del navegador web -->
 &#10132; Medida de la pantalla del navegador web:
@@ -208,7 +206,6 @@ ventana.document.write(""+list_number+"- "+navigator.plugins[i].name+"  <br />")
 </div>
   
 <div class='col-md-3'>
-<br>
 <h6 style='color:#ffffff;'>Datos de tu equipo</h6>
 
 <div class="marco2">
@@ -274,12 +271,6 @@ document.write(OSName);
 <!-- Hasta aqui Sistema operativo -->
 </div><br>
 
-
-
-
-
-
-<br><br>
 <h6 style='color:#ffffff;'>Datos web de esta página URL</h6>
 <div class="marco2"> 
 &#10132; Título de la página: github.com/yanlimeng/TERMUX
@@ -297,12 +288,11 @@ document.write(OSName);
 &#10132; Historial de navegación en este sitio:
 <script type="text/javascript">var times=history.length; document.write(+times+' paginas en esta sesión');</script><br>
 <!-- Hasta aqui Historial de navegaciÃ³n en este sitio -->
-
-
 </div><br>
 </div>
-
-
 </div>
-
 </html>
+<hr>
+
+
+
