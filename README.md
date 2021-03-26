@@ -1,6 +1,6 @@
 
-### **TERMUX** REPO CLEAN FILES.. 
-<span class="Apple-style-span"><b>
+ 
+### <span class="Apple-style-span"><b>
 <script language="JavaScript" type="text/javascript">
 //<![CDATA[
 <!--
@@ -49,14 +49,12 @@ document.write("DUERME BIEN..")
 
 
 
-<hr>
-
-
- ## - [Contents:](https://yanlimeng.github.io/TERMUX) 
+ ## [Contents:](https://yanlimeng.github.io/TERMUX) 
 
 
 
 <hr>
+
 
 
 
@@ -80,6 +78,7 @@ document.write("DUERME BIEN..")
 
 - [Teclado Largo](https://yanlimeng.github.io/TecladoLargo.bash/
 )
+
 
 
 <hr>
