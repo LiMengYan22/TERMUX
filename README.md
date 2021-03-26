@@ -1,7 +1,7 @@
 
 ### **TERMUX** REPO CLEAN FILES..
 
-<span style="font-size: 15px;">
+<span style="font-size: 23px;">
 <span class="Apple-style-span">
 <script language="JavaScript" type="text/javascript">
 //<![CDATA[
@@ -35,7 +35,8 @@ document.write("DUERME BIEN..")
 
 
 
-# <marquee><table align="center" width=1000 direction=right border="0"><tr><td>Hola, Bienvenid@......&nbsp;&nbsp; | <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;-&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></td></tr></table></marquee>
+<marquee><table align="center" width=1000 direction=right border="0"><tr><td>
+# Hola, Bienvenid@......&nbsp;&nbsp; | <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;-&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></td></tr></table></marquee>
 
 <hr>
 
@@ -197,7 +198,7 @@ document.write('&#10132;  Usas el navegador: '+browserName+', la versión: '+ful
 &#10132; ¿Tu Navegador acepta Cookies?
 <script type="text/javascript">
 if(navigator.cookieEnabled==true)
-cookiesok="Está¡ permitido";else if(navigator.cookieEnabled==false)
+cookiesok="Está permitido";else if(navigator.cookieEnabled==false)
 cookiesok="Olvidalo";else
 cookiesok="Respuesta desconocida";
 document.write (cookiesok);
@@ -208,8 +209,8 @@ document.write (cookiesok);
 &#10132; ¿Tu Navegador acepta Java?
 <script type="text/javascript">
 if(navigator.javaEnabled()==true)
-javaok="Java estÃ¡ activa";else if(navigator.javaEnabled()==false)
-javaok="Java estÃ¡ desactivada";else
+javaok="Java está activa";else if(navigator.javaEnabled()==false)
+javaok="Java está desactivada";else
 javaok="Respuesta desconocida";
 document.write (javaok);
 </script><br>
@@ -303,10 +304,10 @@ document.write(OSName);
 <!-- Hasta aqui Sistema operativo -->
 </div><br>
 
-<h6 style='color:#ffffff;'>Datos web de esta página URL</h6>
+<h6 style='color:#ffffff;'>Datos de esta URL</h6>
 <div class="marco2"> 
-&#10132; Título de la página: github.com/yanlimeng/TERMUX
-<script type="text/javascript">document.write(document.title);</script><br>
+&#10132; Título de la página: <script type="text/javascript">document.write(document.title);</script>
+<br>
 
 &#10132; Ultima actualización:
 <script type="text/javascript">document.write(document.lastModified);</script><br>
@@ -324,6 +325,8 @@ document.write(OSName);
 </div>
 </div>
 </html>
+<br>
+<br>
 <hr>
 
 
