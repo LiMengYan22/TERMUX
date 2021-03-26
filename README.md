@@ -107,31 +107,7 @@ document.write("Visita: " + visits)</script>
 <div id="ip4" style="font-size:12px">
 <div class='col-md-3'>
 <br><br>
-<h6 style='color:#ffffff;'>Datos del encabezado o HTTP</h6>
-
-<?php 
-if($_SERVER["HTTP_X_FORWARDED_FOR"]){ 
-echo "&#10132; La dirección Ip de tu proxy es: {$_SERVER['REMOTE_ADDR']}<br>"; 
-echo "&#10132; Tu dirección IP real es: {$_SERVER['HTTP_X_FORWARDED_FOR']}<br>";
-}else{ 
-echo "&#10132; Tu dirección IP es: {$_SERVER['REMOTE_ADDR']}<br>";}
-
-/*echo '&#10132; Tu IP registrada: '; echo $ip=$row["ip"];	
-echo '<br>';*/				
-echo "&#10132; La dirección Ip de tu proxy es: {$_SERVER['REMOTE_ADDR']}<br>";
-echo "&#10132; Server software: {$_SERVER['SERVER_SOFTWARE']}<br>";
-/*echo "&#10132; Tu dirección IP es: {$_SERVER['REMOTE_ADDR']}<br>";
-echo "&#10132; Tu dirección IP tras Proxy: {$_SERVER['HTTP_X_FORWARDED_FOR']}<br>";
-*/echo "&#10132; El servidor es: {$_SERVER['SERVER_NAME']}<br>"; 
-echo "&#10132; Puerto del servidor web: {$_SERVER['SERVER_PORT']}<br>";
-echo "&#10132; Te has conectado usando el puerto: {$_SERVER['REMOTE_PORT']}<br>"; 
-echo "&#10132; IP servidor donde se ejecuta el script: {$_SERVER['SERVER_ADDR']}<br>"; 
-?>
-
-
-
-<br><br><br>
-<h6 style='color:#ffffff;'>Datos del navegador de usuari@</h6>
+<h6 style='color:#ffffff;'>Datos de tu navegador</h6>
 <div class="marco2">
 <!-- Nombre y version del navegador -->
 <script type="text/javascript">
@@ -168,7 +144,7 @@ majorVersion = parseInt(''+fullVersion,10);
 if (isNaN(majorVersion)) {
  fullVersion  = ''+parseFloat(navigator.appVersion); 
  majorVersion = parseInt(navigator.appVersion,10);}
-document.write('&#10132;  Usas el navegador: '+browserName+', la versiÃ³n: '+fullVersion);
+document.write('&#10132;  Usas el navegador: '+browserName+', la versión: '+fullVersion);
 //]]>
 </script><br>
 <!-- Hasta aqui nombre y version del navegador -->
@@ -233,7 +209,7 @@ ventana.document.write(""+list_number+"- "+navigator.plugins[i].name+"  <br />")
   
 <div class='col-md-3'>
 <br>
-<h6 style='color:#ffffff;'>Datos del equipo de usuari@</h6>
+<h6 style='color:#ffffff;'>Datos de tu equipo</h6>
 
 <div class="marco2">
 <!-- Ancho de la resoluciÃ³n de tu pantalla -->
@@ -294,38 +270,7 @@ if (navigator.appVersion.indexOf("X11")!=-1) OSName="UNIX";
 if (navigator.appVersion.indexOf("Linux")!=-1) OSName="Linux";
 document.write(OSName);
 </script><br>
-<?php 
-$user_agent = $_SERVER['HTTP_USER_AGENT'];
-function getPlatform($user_agent) {
-   $plataformas = array(
-      'Windows 10' => 'Windows NT 10.0+',
-      'Windows 8.1' => 'Windows NT 6.3+',
-      'Windows 8' => 'Windows NT 6.2+',
-      'Windows 7' => 'Windows NT 6.1+',
-      'Windows Vista' => 'Windows NT 6.0+',
-      'Windows XP' => 'Windows NT 5.1+',
-      'Windows 2003' => 'Windows NT 5.2+',
-      'Windows' => 'Windows otros',
-      'iPhone' => 'iPhone',
-      'iPad' => 'iPad',
-      'Mac OS X' => '(Mac OS X+)|(CFNetwork+)',
-      'Mac otros' => 'Macintosh',
-      'Android' => 'Android',
-      'BlackBerry' => 'BlackBerry',
-      'Linux' => 'Linux',
-      'Ubuntu' => 'Ubuntu',
-      'Xubuntu' => 'Xubuntu',
-      'Manjaro' => 'Manjaro',
-   );
-   foreach($plataformas as $plataforma=>$pattern){
-      if (eregi($pattern, $user_agent))
-         return $plataforma;
-   }
-   return 'Otras';
-}
-$SO = getPlatform($user_agent);
-echo "&#10132; Plataforma del Sistema Operativo: ".$SO;
-?>
+
 <!-- Hasta aqui Sistema operativo -->
 </div><br>
 
@@ -337,8 +282,8 @@ echo "&#10132; Plataforma del Sistema Operativo: ".$SO;
 <br><br>
 <h6 style='color:#ffffff;'>Datos web de esta página URL</h6>
 <div class="marco2"> 
-&#10132; Título de la página:<br>github.com/yanlimeng
-<!--<script type="text/javascript">document.write(document.title);</script>--><br>
+&#10132; Título de la página: github.com/yanlimeng/TERMUX
+<script type="text/javascript">document.write(document.title);</script><br>
 
 &#10132; Ultima actualización:
 <script type="text/javascript">document.write(document.lastModified);</script><br>
@@ -354,9 +299,6 @@ echo "&#10132; Plataforma del Sistema Operativo: ".$SO;
 <!-- Hasta aqui Historial de navegaciÃ³n en este sitio -->
 
 
-<?php
-echo "&#10132; Vienes de: {$_SERVER['HTTP_REFERER']}<br>";
-?>
 </div><br>
 </div>
 
