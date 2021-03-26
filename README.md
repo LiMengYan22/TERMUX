@@ -28,7 +28,7 @@ document.write("DUERME BIEN..")
 // -->
 //]]>
 </script>
-	 [@ REPO TERMUX](https://yanlimeng.github.io/TERMUX) 
+	 [@ REPO TERMUX by LiMeng.. ](https://yanlimeng.github.io/TERMUX) 
 	</b></span>
 
 
@@ -47,7 +47,10 @@ document.write("DUERME BIEN..")
 
 
 
- ##[Contents:](https://yanlimeng.github.io/TERMUX) 
+
+
+
+- [Contents:](https://yanlimeng.github.io/TERMUX) 
 
 
 
