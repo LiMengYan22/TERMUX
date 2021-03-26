@@ -1,8 +1,7 @@
 
 # <marquee>Hola, bienvenid@......&nbsp;&nbsp; @ <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></marquee>
 
-
-<hr>
+<br>
 
 <span class="Apple-style-span"><b>
 <script language="JavaScript" type="text/javascript">
@@ -34,15 +33,15 @@ document.write("DUERME BIEN..")
 // -->
 //]]>
 </script>
-	 [@ REPO TERMUX by LiMeng.. ](https://yanlimeng.github.io/TERMUX) 
-	</b>  Xie xie!! </span>
+	 [@ REPO TERMUX by LiMeng..](https://yanlimeng.github.io/TERMUX) 
+	</b> Xie xie!! </span>
 
 
 
 
-<br>
-### - [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
-<br>
+<br><center>
+# - [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
+<br></center>
 <hr>
 
 
@@ -269,7 +268,8 @@ document.write(OSName);
 </div>
 </div>
 </div>
-<hr>
+<br><hr>
+</html>
 
 
 
@@ -283,7 +283,7 @@ document.write(OSName);
 
 
 
-<hr>
+
 
 <SCRIPT LANGUAGE="JavaScript">
 var caution = false
@@ -339,4 +339,3 @@ document.write("Visita: " + visits)</script>
 <br>
 <hr>
 <br>
-</html>
