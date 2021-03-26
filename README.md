@@ -1,3 +1,9 @@
+
+# <marquee>Hola, bienvenid@......&nbsp;&nbsp; @ <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></marquee>
+
+
+<hr>
+
 <span class="Apple-style-span"><b>
 <script language="JavaScript" type="text/javascript">
 //<![CDATA[
@@ -31,9 +37,6 @@ document.write("DUERME BIEN..")
 	 [@ REPO TERMUX by LiMeng.. ](https://yanlimeng.github.io/TERMUX) 
 	</b>  Xie xie!! </span>
 
-
-
-# <marquee>Hola, bienvenid@......&nbsp;&nbsp; @ <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></marquee>
 
 
 
@@ -266,7 +269,7 @@ document.write(OSName);
 </div>
 </div>
 </div>
-<br>
+<hr>
 
 
 
@@ -280,7 +283,7 @@ document.write(OSName);
 
 
 
-<br>
+<hr>
 
 <SCRIPT LANGUAGE="JavaScript">
 var caution = false
