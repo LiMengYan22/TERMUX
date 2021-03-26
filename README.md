@@ -29,7 +29,8 @@ document.write("DUERME BIEN..")
 //]]>
 </script>
 	 [@ REPO TERMUX by LiMeng.. ](https://yanlimeng.github.io/TERMUX) 
-	</b> Xie xie;)</span>
+	</b> Xie xie!!</span>
+
 
 
 # <marquee>Hola, bienvenid@......&nbsp;&nbsp; @ <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></marquee>
@@ -273,13 +274,12 @@ document.write(OSName);
 &#10132; Historial de navegación en este sitio:
 <script type="text/javascript">var times=history.length; document.write(+times+' paginas en esta sesión');</script><br>
 <!-- Hasta aqui Historial de navegaciÃ³n en este sitio -->
-</div><br>
+</div>
 </div>
 </div>
 </html>
 <br>
-<br>
-<hr>
+
 <SCRIPT LANGUAGE="JavaScript">
 var caution = false
 function setCookie(name, value, expires, path, domain, secure) {
@@ -331,4 +331,7 @@ visits = parseInt(visits) + 1
 setCookie("counter", visits, now)
 document.write("Visita: " + visits)</script>
 
+<br>
+<hr>
+<br>
 
