@@ -80,6 +80,9 @@ document.write("DUERME BIEN..")
 - [Teclado Largo](https://yanlimeng.github.io/TecladoLargo.bash/
 )
 
+- [Ahorcado, juego](https://yanlimeng.github.io/Ahorcado.bash/
+)
+
 
 
 <hr>
