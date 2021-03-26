@@ -1,7 +1,6 @@
 
 # <marquee>Hola, bienvenid@......&nbsp;&nbsp; @ <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></marquee>
 
-<br>
 
 <span class="Apple-style-span"><b>
 <script language="JavaScript" type="text/javascript">
@@ -40,12 +39,10 @@ document.write("DUERME BIEN..")
 
 
 <br><center>
-# - [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
-<br></center>
+# - [CONTENTS:](https://yanlimeng.github.io/TERMUX) </center>
+<br>
 <hr>
-
-
-
+<br>
 
 - [WeatherForecast](https://yanlimeng.github.io/WeatherForecast.bash/
 )
@@ -337,5 +334,4 @@ setCookie("counter", visits, now)
 document.write("Visita: " + visits)</script>
 
 <br>
-<hr>
 <br>
