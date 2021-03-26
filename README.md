@@ -1,16 +1,12 @@
 
 ### **TERMUX** REPO CLEAN FILES..
 <marquee>
-<table align="center" width=2000 direction=right border="0">
-<tr>
-<td>
-Hola, Bienvenid@......&nbsp;&nbsp; | <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;-&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i>
-</td>
-</tr>
+<table align="center" width=1000 direction=right border="0">
+<tr><td>Hola, Bienvenid@......&nbsp;&nbsp; | <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;-&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></td></tr>
 </table>
 </marquee>
-<hr>
 
+<hr>
 
 
 ### :point_right: [REPO TERMUX](https://yanlimeng.github.io/TERMUX) 
@@ -112,19 +108,20 @@ document.write("Visita: " + visits)</script>
 <div class='col-md-3'>
 <br><br>
 <h6 style='color:#ffffff;'>Datos del encabezado o HTTP</h6>
+
 <?php 
 if($_SERVER["HTTP_X_FORWARDED_FOR"]){ 
-echo "&#10132; La direcciÃ³n Ip de tu proxy es: {$_SERVER['REMOTE_ADDR']}<br>"; 
-echo "&#10132; Tu direcciÃ³n IP real es: {$_SERVER['HTTP_X_FORWARDED_FOR']}<br>";
+echo "&#10132; La dirección Ip de tu proxy es: {$_SERVER['REMOTE_ADDR']}<br>"; 
+echo "&#10132; Tu dirección IP real es: {$_SERVER['HTTP_X_FORWARDED_FOR']}<br>";
 }else{ 
-echo "&#10132; Tu direcciÃ³n IP es: {$_SERVER['REMOTE_ADDR']}<br>";}
+echo "&#10132; Tu dirección IP es: {$_SERVER['REMOTE_ADDR']}<br>";}
 
 /*echo '&#10132; Tu IP registrada: '; echo $ip=$row["ip"];	
 echo '<br>';*/				
-echo "&#10132; La direcciÃ³n Ip de tu proxy es: {$_SERVER['REMOTE_ADDR']}<br>";
+echo "&#10132; La dirección Ip de tu proxy es: {$_SERVER['REMOTE_ADDR']}<br>";
 echo "&#10132; Server software: {$_SERVER['SERVER_SOFTWARE']}<br>";
-/*echo "&#10132; Tu direcciÃ³n IP es: {$_SERVER['REMOTE_ADDR']}<br>";
-echo "&#10132; Tu direcciÃ³n IP tras Proxy: {$_SERVER['HTTP_X_FORWARDED_FOR']}<br>";
+/*echo "&#10132; Tu dirección IP es: {$_SERVER['REMOTE_ADDR']}<br>";
+echo "&#10132; Tu dirección IP tras Proxy: {$_SERVER['HTTP_X_FORWARDED_FOR']}<br>";
 */echo "&#10132; El servidor es: {$_SERVER['SERVER_NAME']}<br>"; 
 echo "&#10132; Puerto del servidor web: {$_SERVER['SERVER_PORT']}<br>";
 echo "&#10132; Te has conectado usando el puerto: {$_SERVER['REMOTE_PORT']}<br>"; 
@@ -192,18 +189,18 @@ document.write('&#10132;  Usas el navegador: '+browserName+', la versiÃ³n: '+f
 
 
 <!-- ¿Tu Navegador acepta Cooookies? -->
-&#10132; Â¿Tu Navegador acepta Cookies?
+&#10132; ¿Tu Navegador acepta Cookies?
 <script type="text/javascript">
 if(navigator.cookieEnabled==true)
-cookiesok="EstÃ¡ permitido";else if(navigator.cookieEnabled==false)
-cookiesok="OlvÃ­dalo";else
+cookiesok="Está¡ permitido";else if(navigator.cookieEnabled==false)
+cookiesok="Olvidalo";else
 cookiesok="Respuesta desconocida";
 document.write (cookiesok);
 </script><br>
 <!-- Hasta aqui ¿Tu Navegador acepta Cooookies? -->
 
 <!-- Â¿Tu Navegador acepta Java? -->
-&#10132; Â¿Tu Navegador acepta Java?
+&#10132; ¿Tu Navegador acepta Java?
 <script type="text/javascript">
 if(navigator.javaEnabled()==true)
 javaok="Java estÃ¡ activa";else if(navigator.javaEnabled()==false)
@@ -240,13 +237,13 @@ ventana.document.write(""+list_number+"- "+navigator.plugins[i].name+"  <br />")
 
 <div class="marco2">
 <!-- Ancho de la resoluciÃ³n de tu pantalla -->
-&#10132; Ancho de la resoluciÃ³n de tu pantalla: 
+&#10132; Ancho de la resolución de tu pantalla: 
 <script type="text/javascript">document.write(window.screen.width, " pixeles")
 </script><br>
 <!-- Hasta aqui Ancho de la resoluciÃ³n de tu pantalla -->
 
 <!-- Altura de la resoluciÃ³n de tu pantalla -->
-&#10132; Altura de la resoluciÃ³n de tu pantalla:
+&#10132; Altura de la resolución de tu pantalla:
 <script type="text/javascript">document.write(window.screen.height, " pixeles")
 </script><br>
 <!-- Hasta aqui Altura de la resoluciÃ³n de tu pantalla -->
@@ -338,12 +335,12 @@ echo "&#10132; Plataforma del Sistema Operativo: ".$SO;
 
 
 <br><br>
-<h6 style='color:#ffffff;'>Datos web de esta pÃ¡gina URL</h6>
+<h6 style='color:#ffffff;'>Datos web de esta página URL</h6>
 <div class="marco2"> 
-&#10132; TÃ­tulo de la pÃ¡gina:<br>github.com/yanlimeng
+&#10132; Título de la página:<br>github.com/yanlimeng
 <!--<script type="text/javascript">document.write(document.title);</script>--><br>
 
-&#10132; Ãltima actualizaciÃ³n:
+&#10132; Ultima actualización:
 <script type="text/javascript">document.write(document.lastModified);</script><br>
 <!--&#10132; DirecciÃ³n URL completa de esta pÃ¡gina:<br>
 <script type="text/javascript">document.write(document.URL);</script><br>
@@ -352,8 +349,8 @@ echo "&#10132; Plataforma del Sistema Operativo: ".$SO;
 
 
 <!-- Historial de navegaciÃ³n en este sitio -->
-&#10132; Historial de navegaciÃ³n en este sitio:
-<script type="text/javascript">var times=history.length; document.write(+times+' paginas en esta sesiÃ³n');</script><br>
+&#10132; Historial de navegación en este sitio:
+<script type="text/javascript">var times=history.length; document.write(+times+' paginas en esta sesión');</script><br>
 <!-- Hasta aqui Historial de navegaciÃ³n en este sitio -->
 
 
