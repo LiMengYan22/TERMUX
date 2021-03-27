@@ -1,6 +1,4 @@
-
 # <marquee>Hola, bienvenid@......&nbsp;&nbsp; @ <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></marquee>
-
 
 <span class="Apple-style-span">
 <script language="JavaScript" type="text/javascript">
