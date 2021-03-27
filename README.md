@@ -1,4 +1,4 @@
-
+<html>
 # <marquee>Hola, bienvenid@......&nbsp;&nbsp; @ <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></marquee>
 
 
@@ -31,7 +31,7 @@ document.write("DUERME BIEN..")
 }
 // -->
 //]]>
-</script>
+</script></html>
 	 [@ REPO TERMUX by LiMeng..](https://yanlimeng.github.io/TERMUX) 
 	 Xie xie!! </span>
 
@@ -39,8 +39,7 @@ document.write("DUERME BIEN..")
 
 
 <br>
-# - [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
-<br>
+#   [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
 <hr>
 <br>
 
@@ -74,10 +73,6 @@ document.write("DUERME BIEN..")
 <hr>
 
 <html>
-  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
-  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
-  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
-  
   <link rel="shortcut icon" href="https://github.githubassets.com/favicons/favicon.png" type="image/x-icon">
   <link rel="icon" href="https://github.githubassets.com/favicons/favicon.png" type="image/png">
   <link rel="shortcut icon" href="https://github.githubassets.com/favicons/favicon.ico" type="img/x-icon">
