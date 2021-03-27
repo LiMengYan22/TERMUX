@@ -36,9 +36,6 @@ document.write("DUERME BIEN..")
 	 Xie xie!! </span>
 
 
-
-
-<br>
 #   [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
 <hr>
 <br>
