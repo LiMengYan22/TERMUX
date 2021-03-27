@@ -1,4 +1,4 @@
-<html>
+
 # <marquee>Hola, bienvenid@......&nbsp;&nbsp; @ <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></marquee>
 
 
@@ -31,7 +31,7 @@ document.write("DUERME BIEN..")
 }
 // -->
 //]]>
-</script></html>
+</script>
 	 [@ REPO TERMUX by LiMeng..](https://yanlimeng.github.io/TERMUX) 
 	 Xie xie!! </span>
 
