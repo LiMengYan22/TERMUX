@@ -1,14 +1,13 @@
-# TERMUX
-TERMUX REPO CLEAN FILES ║▌║█║𝖉𝖔𝖕𝖆𝖒𝖎𝖓𝖆 ▌│█│║ 
+ #  [@ REPO TERMUX by LiMeng](https://yanlimeng.github.io/TERMUX) 
+	 Xie xie!!  ║▌║█║𝖉𝖔𝖕𝖆𝖒𝖎𝖓𝖆 ▌│█│║ 
 
 # <marquee>Hola, bienvenid@......&nbsp;&nbsp; @ <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></marquee>
 
 
-	 [@ REPO TERMUX by LiMeng](https://yanlimeng.github.io/TERMUX) 
-	 Xie xie!! </span>
 
 
-#   [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
+
+## [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
 <hr>
 <br>
 
