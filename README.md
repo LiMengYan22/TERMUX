@@ -77,13 +77,14 @@ document.write("DUERME BIEN..")
 <hr>
 
 <html>
+<head>
   <!-- <link rel="shortcut icon" href="https://github.githubassets.com/favicons/favicon.png" type="image/x-icon">
        <link rel="icon" href="https://github.githubassets.com/favicons/favicon.png" type="image/png">
        <link rel="shortcut icon" href="https://github.githubassets.com/favicons/favicon.ico" type="img/x-icon"> -->
   <link rel="shortcut icon" href="https://raw.githubusercontent.com/yanlimeng/TERMUX/main/termux.ico" type="image/x-icon">
   <link rel="icon" href="https://raw.githubusercontent.com/yanlimeng/TERMUX/main/termux.ico" type="image/png">
   <link rel="shortcut icon" href="https://raw.githubusercontent.com/yanlimeng/TERMUX/main/termux.ico" type="img/x-icon">
-	
+</head>	
 	
 	
 	
