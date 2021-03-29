@@ -1,15 +1,8 @@
- #  [@ REPO TERMUX by LiMeng](https://yanlimeng.github.io/TERMUX) 
-	 Xie xie!!  ║▌║█║𝖉𝖔𝖕𝖆𝖒𝖎𝖓𝖆 ▌│█│║ 
-
+# [@ REPO TERMUX by ║▌║█║ LiMeng ▌│█│║ ](https://yanlimeng.github.io/TERMUX) 
+	 Xie xie!!  
 # <marquee>Hola, bienvenid@......&nbsp;&nbsp; @ <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></marquee>
-
-
-
-
-
 ## [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
 <hr>
-<br>
 
 - [WeatherForecast](https://yanlimeng.github.io/WeatherForecast.bash/
 )
