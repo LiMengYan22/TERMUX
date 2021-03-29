@@ -6,6 +6,15 @@
 ## [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
 <hr>
 
+<form name=myform>
+  <select name=mytextarea>
+    <option name=uno value=one> uno </option>
+    <option name=dos value=two> dos </option>
+    <option name=tres value=three> tres </option>
+  </select> 
+</form>
+
+
 - [WeatherForecast](https://yanlimeng.github.io/WeatherForecast.bash/
 )
 
