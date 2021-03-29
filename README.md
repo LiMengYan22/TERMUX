@@ -2,6 +2,7 @@
 	 Xie xie!!  
 	 
 # <marquee>Hola, bienvenid@......&nbsp;&nbsp; @ <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></marquee>
+![termuxICO](https://user-images.githubusercontent.com/80227002/112893051-6feceb00-90da-11eb-856d-1fac8f6d169a.png)
 
 ## [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
 <hr>
