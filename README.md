@@ -1,26 +1,34 @@
-### [@ REPO TERMUX by ║▌║█║ LiMeng ▌│█│║ ](https://yanlimeng.github.io/TERMUX) 
-	 Xie xie!!  
+![termuxICO](https://user-images.githubusercontent.com/80227002/112893051-6feceb00-90da-11eb-856d-1fac8f6d169a.png)
 	 
 # <marquee>Hola, bienvenid@......&nbsp;&nbsp; @ <strong>&nbsp;&nbsp;**TERMUX** REPO CLEAN FILES....</strong>&nbsp;&nbsp;&nbsp;<i>&nbsp;&nbsp;aqui se prueban herramientas para Termux - Android....&nbsp;</i></marquee>
-![termuxICO](https://user-images.githubusercontent.com/80227002/112893051-6feceb00-90da-11eb-856d-1fac8f6d169a.png)
+
+### [@ REPO TERMUX by LiMeng](https://yanlimeng.github.io/TERMUX) Xie xie!!  
+
 
 ## [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
 <hr>
 
 <form name=myform>
   <select name=mytextarea>
-    <option name=uno value=one> uno </option>
-    <option name=dos value=two> dos </option>
-    <option name=tres value=three> tres </option>
+           <option name=uno value=one> uno </option>
+           <option name=WeatherForecast value=WeatherForecast> - [WeatherForecast](https://yanlimeng.github.io/WeatherForecast.bash/
+) </option>
+	   <option name=printEnviroment value=printEnviroment> - [printEnviroment](https://yanlimeng.github.io/printEnviroment.bash/
+) </option>
+	   <option name=uno value=one> uno </option>
+	   <option name=uno value=one> uno </option>
+	   <option name=uno value=one> uno </option>
+	   <option name=uno value=one> uno </option>
+	   <option name=uno value=one> uno </option>
+	   <option name=uno value=one> uno </option>
+	   <option name=uno value=one> uno </option>
   </select> 
 </form>
 
 
-- [WeatherForecast](https://yanlimeng.github.io/WeatherForecast.bash/
-)
 
-- [printEnviroment](https://yanlimeng.github.io/printEnviroment.bash/
-)
+
+
 
 - [fortuneQuotes](https://yanlimeng.github.io/fortuneQuotes.bash/
 )
