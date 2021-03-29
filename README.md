@@ -5,7 +5,6 @@
 
 <hr> 
 ## [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
-<hr>
 
 - [WeatherForecast](https://yanlimeng.github.io/WeatherForecast.bash/
 ) 
