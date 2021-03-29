@@ -68,6 +68,10 @@ document.write("DUERME BIEN..")
 - [Mapa ASCII](https://yanlimeng.github.io/MAPSCII.sh/
 )
 
+- [CowSay](https://yanlimeng.github.io/CowSay.bash/
+)
+
+
 
 <br>
 <hr>
