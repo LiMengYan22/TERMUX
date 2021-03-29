@@ -30,7 +30,7 @@ document.write("DUERME BIEN..")
 // -->
 //]]>
 </script>
-	 [@ REPO TERMUX by LiMeng..](https://yanlimeng.github.io/TERMUX) 
+	 [@ REPO TERMUX by LiMeng](https://yanlimeng.github.io/TERMUX) 
 	 Xie xie!! </span>
 
 
