@@ -8,21 +8,18 @@
 ## [CONTENTS:](https://yanlimeng.github.io/TERMUX) 
 <hr>
 
-<form name=myform>
-  <select name=mytextarea>
+<form name=simples>
+  <select name=mytextarea1>
            <option name=WeatherForecast value=WeatherForecast>
-		   - [WeatherForecast](https://yanlimeng.github.io/WeatherForecast.bash/
-) </option>
+- [WeatherForecast](https://yanlimeng.github.io/WeatherForecast.bash/
+) 
+	  </option>
 	   <option name=printEnviroment value=printEnviroment>
-		   - [printEnviroment](https://yanlimeng.github.io/printEnviroment.bash/
-) </option>
+- [printEnviroment](https://yanlimeng.github.io/printEnviroment.bash/
+) 
+	  </option>
 	   <option name=uno value=one> uno </option>
-	   <option name=uno value=one> uno </option>
-	   <option name=uno value=one> uno </option>
-	   <option name=uno value=one> uno </option>
-	   <option name=uno value=one> uno </option>
-	   <option name=uno value=one> uno </option>
-	   <option name=uno value=one> uno </option>
+
   </select> 
 </form>
 
