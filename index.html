@@ -11,9 +11,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-<link rel="favicon" href="/termux.ico" type="image/png">
-<link rel="shortcut icon" href="/termux.ico" type="img/x-icon">
+  <link href="https://github.com/yanlimeng/TERMUX/blob/main/termux.ico" rel="icon">
+  <link href="https://github.com/yanlimeng/TERMUX/blob/main/termux.ico" rel="apple-touch-icon">
 <!--https://github.com/yanlimeng/TERMUX/blob/main/termux.ico-->
+ <link href="termux.ico" rel="icon">
+  <link href="termux.ico" rel="apple-touch-icon">
 	</head>
 	<body class="is-preload">
 
@@ -22,7 +24,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1><a href="index.html">🆃🅴🆁🅼🆄🆇 <strong>V.Delta</strong> by LiMengYan</a></h1>
+						<h1><a href="index.html">🆃🅴🆁🅼🆄🆇 <strong>V.Delta</strong></a></h1>
 						<nav>
 							<ul>
 								<li><a href="#footer" class="icon solid fa-info-circle">Ayuda</a></li>
@@ -34,9 +36,9 @@
 					<div id="main">
 						<article class="thumb">
 							<a href="images/fulls/01.jpg" class="image"><img src="images/thumbs/01.jpg" alt="" /></a>
-							<center>
+							
                                                         <h2>Fuentes</h2>
-							<p>
+							<p><center>Fuentes:<br>
 
 • ExclusiveMod: @moduleby404<br>
 • Canal: @TechnologyHacking<br>
@@ -51,21 +53,21 @@
 						<article class="thumb">
 							<a href="images/fulls/02.jpg" class="image"><img src="images/thumbs/02.jpg" alt="" /></a>
 							<h2>Tools Termux</h2>
-							<p></center>
+							<p><center>Tools Termux:<br>
 
 • github.com/may215/awesome-termux-hacking<br>
 • githacktools.blogspot.com/search/label/Linux?m=1<br>
 • www.techncyber.com/2017/09/hacking-with-termux-app.html?m=1<br>
 • www.termuxtools.com/termux<br>
 • www.learntermux.tech<br>
-• www.termuxtech.com<br><br><center>
+• www.termuxtech.com<br><br></center>
 </p>
 						</article>
 						<article class="thumb">
 							<a href="images/fulls/03.jpg" class="image"><img src="images/thumbs/03.jpg" alt="" /></a>
-                                                        <center>
+                                                        
 							<h2>Packs Starting</h2>
-							<p><code>
+							<center><p>Packs Starting:<br><code>
 $ apt update && upgrade -y<br>
 $ apt install git curl wget -y<br>
 $ setterm --foreground | default red<br>
@@ -79,14 +81,14 @@ $ apt install nmap -y<br>
 $ apt install hidra -y<br>
 $ apt install nano -y<br>
 $ apt install crunch -y<br>
-$ chmod 770 *<br><br></code>
-</center>
-</p>
+$ chmod 770 *<br>
+</code><br>
+</p></center>
 						</article>
 						<article class="thumb">
 							<a href="images/fulls/04.jpg" class="image"><img src="images/thumbs/04.jpg" alt="" /></a>
-							<h2>DeepSociety🤖WIKITERMUX</h2>
-							<p><center>
+							<h2>🤖WIKITERMUX</h2>
+							<p><center>DeepSociety🤖WIKITERMUX:<br>
 $ git clone https://github.com/DeepSociety/wiki-termux<br>
 $ cd wiki-termux<br>
 $ chmod 777 witest:<br>
@@ -97,35 +99,33 @@ https://github.com/nixawkj/pentest-wiki<br>
 						<article class="thumb">
 							<a href="images/fulls/05.jpg" class="image"><img src="images/thumbs/05.jpg" alt="" /></a>
 							<h2>DISTRIBUCIONES LINUX TERMUX</h2>
-							<p>
+							<center><p>DISTRIBUCIONES LINUX TERMUX:<br>
 
-Una distribución o distro de Linux es una versión personalizada del sistema operativo original, el kernel o núcleo de Linux, por lo general las encontramos para ordenadores PC.
-Termux da un paso agigantado al proporcionar un paquete llamado proot-distro que se encarga de la gestión de las distribuciones de Linux dentro de Termux.<br>
+<cite>Una distribución o distro de Linux es una versión personalizada del sistema operativo original, el kernel o núcleo de Linux, por lo general las encontramos para ordenadores PC.
+Termux da un paso agigantado al proporcionar un paquete llamado proot-distro que se encarga de la gestión de las distribuciones de Linux dentro de Termux.</cite><br>
 Se puede instalar este paquete con el comando:<br>
 <br>
 <code>$ pkg install proot-distro</code>
 <br>
-<br>
 Por ahora Termux admite las siguientes distribuciones:
+<li><ul>
 <br>- Alpine Linux (alias: alpine): la más pequeña de las distribuciones disponibles.
 <br>-  Arch Linux (alias: archlinux)
-<br>- Kali Nethunter (alias: nethunter)   
-     solo una construcción mínima..
+<br>- Kali Nethunter (alias: nethunter): minima construcción.
 <br>- Ubuntu 20.04 (alias: ubuntu)
-<br>
+</ul>
+</li>
 <hr>
-<br>
 Para instalar la distribución, simplemente ejecutar comando:
 <br>
      </code>$ proot-distro install</code> <alias>
  <br>
-donde "<alias>" debe reemplazarse por la distribución elegida, por ejemplo, "alpine". 
+..donde "<alias>" debe reemplazarse por la distribución elegida, por ejemplo, "alpine". 
 Después de la instalación, iniciar una sesión de shell ejecutando el siguiente comando:
 <br>
      </code>$ proot-distro login</code> <alias> 
 <br>
 ____________________
-<br>
 Descripción básica de la funcionalidad proot-distro disponible:
 <br>
 <br></code>proot-distro list - muestra las distribuciones admitidas y su estado.
@@ -139,7 +139,21 @@ Ejecutar <code> $ proot-distro help </code>para info de uso o ver la web oficial
 </center><br><br>
 </p>
 						</article>
-						<article class="thumb">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               <article class="thumb">
 							<a href="images/fulls/06.jpg" class="image"><img src="images/thumbs/06.jpg" alt="" /></a>
 							<h2>Sed consequat phasellus</h2>
 							<p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
