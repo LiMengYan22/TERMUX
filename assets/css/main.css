@@ -273,7 +273,7 @@ input, select, textarea {
 		font-size: 0.7em;
 	}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 122px) {
 
 		h2 {
 			font-size: 1em;
@@ -540,7 +540,7 @@ input, select, textarea {
 					width: calc(25% - 0.375em);
 				}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 122px) {
 
 			form > .fields {
 				width: calc(100% + 3em);
@@ -1144,7 +1144,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 222px) {
 
 			.panel > .inner.split {
 				-moz-flex-direction: column;
@@ -1160,7 +1160,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 122px) {
 
 			.panel {
 				-moz-transform: translateY(-100vh);
@@ -1330,7 +1330,7 @@ input, select, textarea {
 			opacity: 1.0 !important;
 		}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 222px) {
 
 			.poptrox-popup .closer {
 				background-size: 3em;
@@ -1343,7 +1343,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 122px) {
 
 			.poptrox-popup:before {
 				display: none;
@@ -1550,7 +1550,7 @@ input, select, textarea {
 							background-color: #242629;
 						}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 122px) {
 
 		body {
 			padding: 4em 0 0 0;
@@ -1926,7 +1926,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 222px) {
 
 			#main .thumb {
 				-moz-transition-delay: 2.075s;
