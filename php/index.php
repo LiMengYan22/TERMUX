@@ -1,5 +1,14 @@
 <!DOCTYPE HTML>
 <html>
+	<head>
+		<title>🆃🅴🆁🅼🆄🆇 </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+                <link href="images/termux.ico" rel="icon">
+                <link href="images/termux.ico" rel="apple-touch-icon">
+	</head>
 <!--
                     ___           ___           ___           ___     
                    /\__\         /\  \         /\  \         /\  \    
@@ -29,15 +38,7 @@
 <?php
 echo'
 
-	<head>
-		<title>🆃🅴🆁🅼🆄🆇 </title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-                <link href="termux.ico" rel="icon">
-                <link href="termux.ico" rel="apple-touch-icon">
-	</head>
+	
 	<body class="is-preload">
 <iframe src="index.html" border="0" frameborder="0"
 framespacing="0" width="100%" height="100%"> </iframe>
