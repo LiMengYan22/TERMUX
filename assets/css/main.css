@@ -1144,7 +1144,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 222px) {
+		@media screen and (max-width: 122px) {
 
 			.panel > .inner.split {
 				-moz-flex-direction: column;
@@ -1330,7 +1330,7 @@ input, select, textarea {
 			opacity: 1.0 !important;
 		}
 
-		@media screen and (max-width: 222px) {
+		@media screen and (max-width: 122px) {
 
 			.poptrox-popup .closer {
 				background-size: 3em;
@@ -1926,7 +1926,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 222px) {
+		@media screen and (max-width: 122px) {
 
 			#main .thumb {
 				-moz-transition-delay: 2.075s;
