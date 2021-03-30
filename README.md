@@ -22,6 +22,6 @@
                       |___|              
 ```
 
-# [link](https://yanlimeng.github.io/TERMUX) Xie xie!! 
+# :link:  [link](https://yanlimeng.github.io/TERMUX) Xie xie!! 
 
 <br>
