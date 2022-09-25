@@ -1,4 +1,4 @@
-#### [@ REPO by LiMeng](https://yanlimeng.github.io/TERMUX) Xie xie!! 
+#### [@ REPO by solomongo](https://solomongoGUI.github.io/TERMUX) Xie xie!! 
 ### Hola, bienvenid@ **TERMUX** REPO CLEAN FILES.. 
 ..aqui se prueban *herramientas* para Termux/Android, además de Git!!
 <br><br>
@@ -15,14 +15,17 @@
 <br><br>
 
 ```
- __    _ _____             __ __         
-|  |  |_|     |___ ___ ___|  |  |___ ___ 
-|  |__| | | | | -_|   | . |_   _| .'|   |
-|_____|_|_|_|_|___|_|_|_  | |_| |__,|_|_|
-                      |___|              
+           _                                         
+          | |                                        
+ ___  ___ | | ___  _ __ ___   ___  _ __   __ _  ___  
+/ __|/ _ \| |/ _ \| '_ ` _ \ / _ \| '_ \ / _` |/ _ \ 
+\__ | (_) | | (_) | | | | | | (_) | | | | (_| | (_) |
+|___/\___/|_|\___/|_| |_| |_|\___/|_| |_|\__, |\___/ 
+                                          __/ |      
+                                         |___/             
 ```
 
-# :link:  [link](https://yanlimeng.github.io/TERMUX) Xie xie!! 
+# :link:  [link](https://solomongoGUI.github.io/TERMUX) Xie xie!! 
 
 <br>
 
